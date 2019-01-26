@@ -1,1 +1,1 @@
-# botbeep
+# wwtbamDiscordBot
